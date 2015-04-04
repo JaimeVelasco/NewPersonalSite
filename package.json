@@ -1,13 +1,13 @@
 {
-  "name": "burger",
-  "version": "1.1.1",
-  "description": "Burger is a minimal hamburger menu with fullscreen navigation.",
+  "name": "Jaime Velasco",
+  "version": "0.1",
+  "description": "Personal website",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/mblode/burger.git",
-  "author": "Matthew Blode",
+  "repository": "https://github.com/JaimeVelasco//NewPersonalSite.git",
+  "author": "Jaime VElasco",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.5.2",
